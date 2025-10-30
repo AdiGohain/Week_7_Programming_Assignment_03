@@ -1,6 +1,6 @@
 # Week_7_Programming_Assignment_03
 
-This goal of this project is to write a program for automated, algorithmic trading and to backtest my trading strategy. 
+This goal of this project is to develop a program for automated, algorithmic trading and to backtest my trading strategy. 
 
 For this project, trading does not involve machine learning. Nor does it involve market regime detection. The minimum trading strategy for this project would be a simple mean-reversion or momentum model applied to the assets included my fund's portfolio. Focusing on automated trading itself. 
 
