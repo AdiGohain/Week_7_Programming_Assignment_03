@@ -10,3 +10,13 @@ I employ thorough backtesting of my approach and metrics such as the Sharpe rati
 (3) a US Treasuries, aggregate bond, or fixed-income fund.
 
 <img width="1156" height="654" alt="image" src="https://github.com/user-attachments/assets/24666745-f62e-4ab2-8488-154a7f61769b" />
+
+Use of AI in this Project:
+I utilized ChatGPT for troubleshooting a method for calculating the cumulative exposure. Due to a Binary signal, I wanted to find better ways to visualize the data and I used ChatGPT to provide suggestions.
+
+I also referenced the code provided by 
+Clenow, Andreas F. 2019. Trading Evolved: Anyone Can Build Killer Trading Strategies in Python. Independently Published. [ISBN-13: 978-1091983786]
+I used this code and incorporated the equities and commodities I wanted to test with.
+
+The user can download the .ipbyn file and run the project. The algorithmic process has been automated to ingest data, run calculations and output graphs.
+Libraries used: Pandas, Numpy, YFinance, and Matplotlib. 
