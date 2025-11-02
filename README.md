@@ -12,7 +12,7 @@ I employ thorough backtesting of my approach and metrics such as the Sharpe rati
 <img width="1156" height="654" alt="image" src="https://github.com/user-attachments/assets/24666745-f62e-4ab2-8488-154a7f61769b" />
 
 Use of AI in this Project:
-I utilized ChatGPT for troubleshooting a method for calculating the cumulative exposure. Due to a Binary signal, I wanted to find better ways to visualize the data and I used ChatGPT to provide suggestions.
+I utilized ChatGPT for troubleshooting a method for calculating the cumulative exposure. Due to a Binary signal, I wanted to find better ways to visualize the data and I used ChatGPT to provide suggestions. Due to updates in Pandas, I was struggling getting the example code to run with the Zipline Library. I used GPT to suggest me an alternate coding apporach with using yfinance.
 
 I also referenced the code provided by 
 Clenow, Andreas F. 2019. Trading Evolved: Anyone Can Build Killer Trading Strategies in Python. Independently Published. [ISBN-13: 978-1091983786]
